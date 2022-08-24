@@ -1,0 +1,11 @@
+#environments
+venv_surveychecks
+
+#unecessary python files
+__pycache__
+
+#output xlsx files
+*xlsx
+
+#eval scripts
+*_eval_*
